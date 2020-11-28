@@ -1,0 +1,30 @@
+.button {
+    border: none;
+    /* border-right: solid 1px #888;
+    border-bottom: solid 1px #888; */
+    border-radius: 20px;
+    margin: 2px;
+    outline: none;
+    background-color: rgb(221, 221, 221);
+}
+
+.button:active {
+    background-color: #ccc;
+}
+
+.button.double {
+    grid-column: span 2;
+}
+
+.button.triple {
+    grid-column: span 3;
+}
+
+.button.operation {
+    background-color: #9A89E9;
+    color: white;
+}
+
+.button.operation:active {
+    background-color: #9b89e9cc;
+}

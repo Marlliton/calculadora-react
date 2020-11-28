@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: linear-gradient(to right, rgb(172, 182, 229), rgb(134, 253, 232)); */
+    background: linear-gradient(to right, rgb(154, 136, 233), rgb(134, 215, 253));
+}
