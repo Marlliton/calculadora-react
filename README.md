@@ -1,9 +1,5 @@
 # Calculadora Simples
 
-## Objetivo do projeto:
-
-Estou *iniciando* na area de tecnologia, e desejo me tornar um **programador**,  resolvi então começar com JavaScript. Desenvolvi uma calculadora simples, para aprender e me aprofundar mais na linguagem.
-
 ## Gif
 ![Peek 2020-11-28 01-06](https://user-images.githubusercontent.com/67978032/100493737-bfb1aa80-3118-11eb-918a-ffecbe1545b2.gif)
 
